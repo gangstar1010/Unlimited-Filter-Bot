@@ -77,7 +77,7 @@ async def cb_handler(client, query):
             [
                 [
                     InlineKeyboardButton(
-                        "⛓️ Support Group ⛓️", url="http://t.me/share/url?url=https://t.me/KAANNADANEWMOVIEREQUESTINGGROUP")
+                        "⛓️ Support Group ⛓️", url="https://t.me/KAANNADANEWMOVIEREQUESTINGGROUP")
                 ],
                 [
                     InlineKeyboardButton("🔙 𝙱𝚊𝚌𝚔", callback_data="help_data"),
